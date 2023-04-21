@@ -1,14 +1,9 @@
 <div id="header" align="center">
-    <img src="<iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>">
+    <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="380" height="380" />
     <h1 align="center">Hola 👋, soy Ismael</h1>
-    <h3 align="center">I am a student of Data Science and Artificial Intelligence. I live in the province of Chaco-Argentina. I am passionate about everything related to Machine Learning, statistics, and process automation. I am working on personal data analysis projects. My hobbies are reading, biking, and spending time with my family.</h3>
+    <h3 align="center">I am a student of Data Science and Artificial Intelligence. I live in the province of Chaco-Argentina. I am passionate about everything related      to Machine Learning, statistics, and process automation. I am working on personal data analysis projects. My hobbies are reading, biking, and spending time with        my family.</h3>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://twitter.com/IsmaCenn">
-        <img src="![Twitter URL](https://img.shields.io/twitter/url?color=red&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FIsmaCenn)" alt="Twitter Badge">
-    </a>
-</div>
 
 --- 
 
