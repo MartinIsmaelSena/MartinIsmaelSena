@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="380" height="380" />
+    <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="280" height="280" />
     <h1 align="center">Hola 👋, soy Ismael</h1>
     <h3 align="center">I am a student of Data Science and Artificial Intelligence. I live in the province of Chaco-Argentina. I am passionate about everything related      to Machine Learning, statistics, and process automation. I am working on personal data analysis projects. My hobbies are reading, biking, and spending time with        my family.</h3>
 </div>
